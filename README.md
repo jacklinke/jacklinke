@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [watervize](https://www.watervize.com), a Django-based application for improving efficiency and communication in agriculture utilities
 - 🌱 I’m learning applied graph theory, advanced PDF generation tools, etc.
-- 👯 I welcome collaboration (PRs & Issues) on [django-postgresql-dag](https://www.github.com/OmenApps/django-postgresql-dag), a package for graph representations in Postgresql databases and Django.
+- 👯 I welcome collaboration (PRs & Issues) on [django-postgresql-dag](https://www.github.com/OmenApps/django-postgresql-dag), a package for graph representations in Postgresql databases and Django. Similarly, [django-calendardate](https://github.com/OmenApps/django-calendardate), a django package with a calendar model and date metadata for querying against could use collaboration if you have suggestions
 
-- 😻 Similarly, [django-calendardate](https://github.com/OmenApps/django-calendardate), a django package with a calendar model and date metadata for querying against could use collaboration if you have suggestions.
+- 😻 I actively contribute to [measurement](https://github.com/coddingtonbear/python-measurement), a python package near & dear to my heart. Well worth checking out if you ever need to convert between measurements (e.g.: nautical miles to German legal metres)
 - 🤔 I have been working a lot with HTMX lately. You can see how to build a todo list using django & HTMX [here](https://github.com/jacklinke/django-htmx-todo-list), and read a blog post on [Ajax-Enabled Checkbox and Select with Django and HTMX](https://jacklinke.com/2021/web/ajax-enabled-checkbox-and-select-with-django-and-htmx/).
 - 💬 Ask me about [Django](https://www.djangoproject.com/) or [HTMX](https://htmx.org/).
 - 🤓 Speaking about technology interests and helping others learn is something I love. Let me know if your organization, conference, or meetup might have an opportunity that I could contribute toward.
