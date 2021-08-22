@@ -13,4 +13,8 @@
 
 🏳️‍🌈 🥾 🥞 📚 🌵 📊 🚀 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JackLinke&include_all_commits=true&count_private=true&theme=cobalt&showicons=true)]()
+[![OmenApps GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmenApps&include_all_commits=true&count_private=true&theme=cobalt&showicons=true)]()
+
+
 *Note: I also contribute as [@OmenApps](https://www.github.com/OmenApps/) for work-related coding, but I'm working on splitting my personal account away from business interests.*
