@@ -16,7 +16,7 @@ Some other details:
 - 🤓 Speaking about technology interests and helping others learn is something I love. Let me know if your organization, conference, or meetup might have an opportunity that I could contribute toward.
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I'm an active duty Marine Corps officer 🪖, a radar technician and subject matter expert in systems maintenance 🤖, married to my bff 🌈, and I'm passionate about the topics of data storytelling and visualization 📈
-- 📫 How to reach me: [@JackDLinke](https://twitter.com/JackDLinke/) on Twitter, [@jack@jacklinke.com](https://social.jacklinke.com/@jack) on Mastodon, [LinkedIn](https://www.linkedin.com/in/jacklinke/), or via email at *jack at watervize.com*
+- 📫 How to reach me: [@JackDLinke](https://twitter.com/JackDLinke/) on Twitter, [@jack@social.jacklinke.com](https://social.jacklinke.com/@jack) on Mastodon, [LinkedIn](https://www.linkedin.com/in/jacklinke/), or via email at *jack at watervize.com*
 
 🏳️‍🌈 🥾 🥞 📚 🌵 📊 🚀 
 
